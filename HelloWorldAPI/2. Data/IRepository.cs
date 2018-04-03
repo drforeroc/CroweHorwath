@@ -8,7 +8,7 @@ using HelloWorldAPI.Entities;
 namespace HelloWorldAPI.Data
 {
     /// <summary>
-    /// Interface for the data access
+    /// Interface for the data access repositories
     /// </summary>
     interface IRepository
     {

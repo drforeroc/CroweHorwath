@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\HelloWorldAPI.UnitTest.dll
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\HelloWorldAPI.UnitTest.pdb
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\HelloWorldAPI.dll
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\HelloWorldAPI.pdb
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\obj\Debug\HelloWorldAPI.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\obj\Debug\HelloWorldAPI.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\obj\Debug\HelloWorldAPI.UnitTest.csproj.CopyComplete
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\obj\Debug\HelloWorldAPI.UnitTest.dll
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI.UnitTest\obj\Debug\HelloWorldAPI.UnitTest.pdb

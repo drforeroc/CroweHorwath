@@ -4,3 +4,7 @@ C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI\bin\Debug\HelloWorldAPI.dll
 C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI\bin\Debug\HelloWorldAPI.pdb
 C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI\obj\Debug\HelloWorldAPI.dll
 C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI\obj\Debug\HelloWorldAPI.pdb
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI\bin\Debug\nunit.framework.dll
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI\bin\Debug\nunit.framework.pdb
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI\bin\Debug\nunit.framework.xml
+C:\Users\danie\source\repos\HelloWorld\HelloWorldAPI\obj\Debug\HelloWorldAPI.csproj.CopyComplete

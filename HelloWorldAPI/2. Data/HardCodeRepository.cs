@@ -9,13 +9,13 @@ using HelloWorldAPI.Entities;
 namespace HelloWorldAPI.Data
 {
     /// <summary>
-    /// Repository to obtain the message from the configuration file
+    /// Repository to obtain the message for the Business rule 01
     /// </summary>
-    public class ConfigurationRepository : IRepository
+    public class HardCodeRepository : IRepository
     {
         public MessageDto GetMessage()
         {
-            return new MessageDto(ConfigurationManager.AppSettings["Message"]);
+            return new MessageDto("Hello World");
         }
     }
 }

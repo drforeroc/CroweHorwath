@@ -17,7 +17,7 @@ namespace HelloWorldAPI.Services
         
         public ReadService()
         {
-            DataRepository = new ConfigurationRepository();
+            DataRepository = new HardCodeRepository();
         }
 
         public MessageDto Read()
